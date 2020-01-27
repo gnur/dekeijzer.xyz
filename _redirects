@@ -8,3 +8,5 @@ https://www.dekeijzer.xyz/* https://dekeijzer.xyz/:splat 301!
 
 # These extra rules are required because HTTPS is not forced
 http://programmer-cecil-24576.netlify.com/* https://dekeijzer.xyz/:splat 301!
+http://www.dekeijzer.xyz/* https://dekeijzer.xyz/:splat 301!
+http://dekeijzer.xyz/* https://dekeijzer.xyz/:splat 301!
