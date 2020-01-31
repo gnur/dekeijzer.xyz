@@ -5,7 +5,7 @@ author = "Erwin de Keijzer "
 cover = ""
 tags = ["side project", "books", "golang", "production", "GAE", "firestore"]
 keywords = ["library", "epub", "ebook"]
-description = ""
+description = "a fast web UI for searching your ebooks"
 showFullContent = false
 +++
 
