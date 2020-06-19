@@ -29,6 +29,7 @@ And it did the job quite okay, but startup was slow and searching was exact and 
 
 ## technologies
 
+- go lang
 - google app engine
 - vue
 - bulma css
