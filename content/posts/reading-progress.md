@@ -3,7 +3,7 @@ title: "Reading Progress"
 date: 2020-01-31T11:32:53+01:00
 draft: false
 author: "Erwin de Keijzer"
-tags: ["books", "typescript", "firebase", "firestore", "svelte", "side project"]
+tags: ["books", "typescript", "firebase", "firestore", "svelte", "sidequest"]
 description: "a real time view into my reading progress"
 showFullContent: false
 ---

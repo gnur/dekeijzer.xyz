@@ -2,7 +2,7 @@
 title = "booksing"
 date = "2020-01-25T13:51:36+0100"
 author = "Erwin de Keijzer "
-tags = ["side project", "books", "golang", "production", "GAE", "firestore"]
+tags = ["sidequest", "books", "golang", "production", "GAE", "firestore"]
 description = "a fast web UI for searching your ebooks"
 showFullContent = false
 +++

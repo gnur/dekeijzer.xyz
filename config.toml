@@ -34,7 +34,7 @@ paginate = 5
   [languages.en]
     languageName = "English"
     title = "Erwin's stuff"
-    subtitle = "a gathering of side projects and brain dumps"
+    subtitle = "a gathering of sidequests and brain dumps"
     keywords = ""
     copyright = ""
     menuMore = "Show more"

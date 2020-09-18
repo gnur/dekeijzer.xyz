@@ -3,7 +3,7 @@ title: "Beyondauth"
 date: 2019-10-31T12:04:51+01:00
 draft: false
 author: "Erwin de Keijzer"
-tags: ["side project", "golang", "authentication", "openid connect", "traefik", "kubernetes", "deprecated" ]
+tags: ["sidequest", "golang", "authentication", "openid connect", "traefik", "kubernetes", "deprecated" ]
 description: "A poor mans identity aware proxy"
 showFullContent: false
 ---

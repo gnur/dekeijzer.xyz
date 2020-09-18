@@ -7,7 +7,7 @@ draft: false
 # about Erwin de Keijzer
 
 Erwin is a passionate DevOps / Architect / public speaker / engineer.  
-[dekeijzer.xyz](https://dekeijzer.xyz) is a gathering of ideas, side projects and a basic approximation of a portfolio / resume.
+[dekeijzer.xyz](https://dekeijzer.xyz) is a gathering of ideas, sidequests and a basic approximation of a portfolio / resume.
 
 My github: [github.com/gnur](https://github.com/gnur)  
 To contact me: public (at) dekeijzer (dot) xyz

@@ -3,7 +3,7 @@ title: "garage door opener"
 date: 2020-06-18T16:00:09+01:00
 draft: false
 author: "Erwin de Keijzer"
-tags: ["side project", "golang", "iot", "production", "svelte", "secure"]
+tags: ["sidequest", "golang", "iot", "production", "svelte", "secure"]
 description: "raspberry pi zero + garage remote + time = web ui to open a garage door"
 showFullContent: false
 ---
