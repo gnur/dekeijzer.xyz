@@ -9,7 +9,7 @@ showFullContent: false
 
 It's 2022, the year I turn 33, just like the Bash shell. Something that might feel a lot younger, zsh, was actually released in 1990, only a year younger than bash. Fish had its first relase in 2005, 17 years ago.
 
-Even though these shells are old enough to have teenage children, they are stil lvery relevant and are still used by a lot of dev/ops/sre every single day.  
+Even though these shells are old enough to have teenage children, they are still very relevant and are still used by a lot of dev/ops/sre every single day.  
 But the last few years there has been a silent revolution in the toolkit of these CLI warriors. They do embrace the POSIX mindset, but provide modern alternatives to the tools that have existed for over 30 years.
 It appears that the more modern languages like Go and Rust have triggered developers into thinking about how to improve the shell experience.
 

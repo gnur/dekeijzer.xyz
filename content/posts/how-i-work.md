@@ -40,7 +40,7 @@ I use VSCode for most of my dayjob coding, and the most important extensions I u
 For some projects I want to be able to edit them on the go if I have an idea. These projects are setup on a server running in my home and I use the remote ssh extension to edit them with vscode. And, if needed, I can also ssh into this machine and use neovim to edit them directly.
 
 ### Settings Sync
-I've found that I switch machines more often then I'd like to admin, as I'm on my fourth laptop in 3 years. And settings sync has allowed every switch to be almost painless.
+I've found that I switch machines more often then I'd like to admit, as I'm on my fourth laptop in 3 years. And settings sync has allowed every switch to be almost painless.
 
 ### Code Spell Checker
 It's just very convenient to have spell check available in your editor. Even though I have to add at least 20 project specific words / abbreviations to every project, it's still totally worth it to catch the easy spellign errors.
