@@ -1,3 +1,3 @@
 #!/bin/bash
 
-hugo server --bind 100.119.99.39 -b sanny.egdk.nl
+hugo server --buildDrafts=true --bind 100.72.78.122 --baseURL pro.aawa.nl

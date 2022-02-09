@@ -23,5 +23,11 @@
   {{ end }}
 </div>
 
+{{ if not .Site.BuildDrafts }}
+<!-- Cloudflare Web Analytics -->
+<script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "3dc49e14dad240b5a526e449538a4b0c"}'>
+</script>
+<!-- End Cloudflare Web Analytics -->
+{{ end }}
 </body>
 </html>
