@@ -1,7 +1,7 @@
 ---
 title: "Biggest Productivity Boost 2022"
 date: 2022-04-11T08:37:29+02:00
-draft: true
+draft: false
 author: "Erwin de Keijzer"
 tags: ["wezterm", "productivity", "cli"]
 description: "hyperlinks in the terminal are awesome"
