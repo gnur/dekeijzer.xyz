@@ -1,0 +1,7 @@
+#!/bin/bash
+
+
+hugo \
+  --baseURL "https://dekeijzer.xyz" 
+
+rsync -av public/ sanny:/var/www/dekeijzer.xyz/
