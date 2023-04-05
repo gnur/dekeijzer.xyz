@@ -1,3 +1,3 @@
 #!/bin/bash
 
-hugo server --buildDrafts=true --bind 100.72.78.122 --baseURL pro.goat-gecko.ts.net
+hugo server --buildDrafts=true --bind 0.0.0.0 --baseURL maccers.goat-gecko.ts.net

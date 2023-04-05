@@ -6,15 +6,20 @@ draft: false
 
 # about Erwin de Keijzer
 
-Erwin is a passionate DevOps / Architect / public speaker / engineer.  
+Erwin is a DevOps Engineer at Fullstaq. He loves educating people what it means to build cloud native applications (and it's not just using the "cloud"). Using the Cloud Native landscape to make application delivery and lifecycle simple and reliable. At home he is always looking for sidequests; monitoring his power usage to send notifications when his washing machine is done, connecting the garage door to the internet (securely) and adding music to his elevator are just a few examples. His experience makes him a very practical engineer, finding the simple solution is more important than having a modern, shiny solution.
+
 [dekeijzer.xyz](https://dekeijzer.xyz) is a gathering of ideas, sidequests and a basic approximation of a portfolio / resume.
 
-My github: [github.com/gnur](https://github.com/gnur)  
+My github: [gnur](https://github.com/gnur)  
 To contact me: public (at) dekeijzer (dot) xyz
 
 
 ---
 # public speaking
+
+## Using CNCF Projects for Adding Music and Announcements to My Home Elevator (Kubecon Amsterdam 2023)
+In April 2023 I present about how transformed a dull elevator ride into a musical experience using cloud native tools.
+
 
 ## using prometheus for monitoring your power usage at home
 In March of 2018 I presented on how to use prometheus with a smart meter at Grafanacon, video is available on [youtube](https://www.youtube.com/watch?v=wtna51BLYMc&t=8s)
