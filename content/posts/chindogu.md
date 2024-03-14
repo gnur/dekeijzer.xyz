@@ -1,7 +1,7 @@
 ---
 title: "Chindogu"
 date: 2024-03-14T08:55:56+01:00
-draft: true
+draft: false
 author: "Erwin de Keijzer"
 tags: ["chindogu", "sidequest"]
 description: "The Art of Chindogu - links"
