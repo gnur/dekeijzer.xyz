@@ -17,6 +17,18 @@ To contact me: public (at) dekeijzer (dot) xyz
 ---
 # public speaking
 
+## WebDevCon 2024 - The Art of Chindogu
+The art of Chindogu hopes to inspire everyone to have fun side quests.
+
+## DevOps & Cloud Native Storytelling - Fullstaq Meetup 2024 - Serverless: no serverss == no worries ?
+In February I spilt my thoughts about how serverless scales and when it is an appropiate pattern to adopt. I also made clear that infinite scaling is both an asset and a risk as the bills scales just a smoothly.
+
+## KCD Utrecht 2023 - Using the CLI for fun and profit
+I talked about how the CLI has changed in 2023 and how you can use these tools to improve your workflows.
+
+## EdgeCase 2023 - Project Coldplay: adding music to my home elevator with CNCF projects
+In September I presented a slightly revised talk about the my home elevator music project.
+
 ## Using CNCF Projects for Adding Music and Announcements to My Home Elevator (Kubecon Amsterdam 2023)
 In April 2023 I present about how transformed a dull elevator ride into a musical experience using cloud native tools.
 
