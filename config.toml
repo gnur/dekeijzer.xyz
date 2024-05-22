@@ -8,6 +8,10 @@ draft = true
 baseurl = "/"
 paginate = 5
 
+[services]
+  [services.googleAnalytics]
+    ID = 'G-K1YWFKFY5Y'
+
 [params]
   # ["orange", "blue", "red", "green", "pink"]
   themeColor = "livid"
