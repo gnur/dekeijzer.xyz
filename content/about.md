@@ -17,6 +17,12 @@ To contact me: public (at) dekeijzer (dot) xyz
 ---
 # public speaking
 
+## EdgeCase 2024 - Cowboy stories from the Cloud Native world
+We told some stories about the cloud native world and how you can cowboy your way around certain restrictions.
+
+## SREday London 2024 - A deep dive into Perses
+A deep dive into Perses, a dashboard tool to visualize observability data from Prometheus/Thanos/Jaeger.
+
 ## WebDevCon 2024 - The Art of Chindogu
 The art of Chindogu hopes to inspire everyone to have fun side quests.
 
