@@ -1,12 +1,14 @@
 baseURL = "https://dekeijzer.xyz"
 languageCode = "en-us"
 title = "Erwin's stuff"
-theme = "terminal"
+theme = "github.com/panr/hugo-theme-terminal/v4"
 draft = true
 
 # theme config
 baseurl = "/"
-paginate = 5
+
+[pagination]
+pagerSize = 10
 
 [services]
 [services.googleAnalytics]
@@ -49,3 +51,8 @@ logoHomeLink = "/"
 identifier = "about"
 name = "about"
 url = "/about/"
+
+
+
+[languages.en.params]
+readMore = "Read more"
