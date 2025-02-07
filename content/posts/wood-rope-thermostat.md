@@ -149,4 +149,12 @@ It takes the `input_number.thermostaat` (or 13 as a default) and with some fancy
 
 ![thermopunk](/thermopunk.jpeg)
 
+![home assistant dashboard](/hass-thermos.png)
+
+I added some controls to my default home assistant dashboard that allows me to select any value through a slider (+- 0.5 degrees) or select one of 4 most used values. And I also automated it so it turns on as soon as there is movement downstairs and turns itself of if no one is home.
+
+
+# ESP love
+
 Did I mention already that I really love ESPhome and the whole ESP32 ecosystem that is emerging? I have an ESP running [espresence](https://espresense.com/) which allows me to track my phone and apple watch around the house. I have one running [HomeKey](https://github.com/rednblkx/HomeKey-ESP32) that will allow me to unlock my (smart) bold lock with my apple watch. And another ESP32 running ESPhome to trigger my garage door. I also have one running [WLED](https://kno.wled.ge/) that I used to check if a led strip I salvaged from a toy drone was still working and is now an indicator for my workouts. I really love ESPs!
+
