@@ -1,9 +1,9 @@
 +++
 title = "Yak Shavers Monthly 2"
-date = "2025-02-02T18:02:12+01:00"
-draft = true
+date = "2025-03-01T18:02:12+01:00"
+draft = false
 author = "Erwin de Keijzer"
-tags = ["yakshaving", "tooling"]
+tags = ["yakshaving", "tooling", "ai", "llm"]
 description = "Welcome to the second iteration of Yak Shavers monthly"
 showFullContent = false
 hideComments = true
@@ -11,18 +11,27 @@ hideComments = true
 
 # tl;dr
 
-- zellij config, cmd-t, cmd-n, cmd-g, cmd-d
+LLMs in the terminal.
 
-## what is yak shaving?
+- aider
+- smartcat
+- elia
+- parllama
+- claude code
 
-Yak shaving is a hobby / way of life for the people that use the sharpest knives and demand perfection in the tools they use.
-Also for the people that can spend weeks perfecting their neovim setup because that fucking indent keeps happening in 1 fucking yaml file.
+## Aider
 
-Or, officially it is something along the lines of:
 
-> Any apparently useless activity which, by allowing one to overcome intermediate difficulties, allows one to solve a larger problem.
+[aider](https://aider.chat/) is AI pair programming in your terminal. It's basically a chat interface for an LLM that provides the context of your codebase in your session. It allows you to write comments like `//implment this function and use recursion. AI!` and it will be picked up by a model of your choosing. It can also answer questions about your codebase and help you plan big changes.
 
-Small example: while writing this post I found out that the autosave functionality of Helix doesn't seem to work when helix is opened within a zellij pane in Ghostty and switching windows. It does work when switching zellij panes. And it does work when using it without zellij in Ghostty. So I spent at least 30 minutes getting it to work.. Which I didn't. But I did upgrade Helix to the latest release with Mise (which is awesome). But then I also broke syntax highlighting in Helix, so I switch to using brew again for install Helix, which did fix the syntax highlighting, but still no autosave. But I did find out how to get proper kubernetes yaml definitions completions and error reporting.
+## smartcat
 
-### what is yak shaving monthly?
-Mostly a collection of tools and their configuration to allow everyone to have shaven yak without doing all the shaving yourself.
+[smartcat](https://github.com/efugier/smartcat) (`sc` in the CLI) is a CLI interface to LLMs. In the true spirit of UNIX it does one thing well and is very composable. Can be very useful when working in helix with the `|` command that allows you to pipe your selection into an external command and allows it be replaced with the output of the command. Allowing you to use a model of your choosing to quickly implement functions.
+
+## elia & parllama
+
+Both [elia](https://github.com/darrenburns/elia) and [parllama](https://github.com/paulrobello/parllama) offer a TUI to LLMs. You can configure multiple LLMs and LLM providers so doesn't matter if you want to use chat gippity, gemini, Claude or even run it yourself with ollama. 
+
+## claude code
+
+A bit of a last minute addition, claude code was just announced by anthropic as a command line tool to help you code. It doesn't allow you to use any model you want, it's always claude. And claude is not cheap, just initializing claude on a new project cost me 6 cents. While my 2 hour coding session with gemini flash 2 in aider cost me less than 1 cent..
