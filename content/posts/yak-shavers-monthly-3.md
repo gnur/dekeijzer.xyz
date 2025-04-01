@@ -29,7 +29,7 @@ For example, I've set up zellij to switch to specific tabs with the following co
 This makes zellij feel like a native macos app and allows me to quickly switch tabs.
 
 
-(Mind you, this does need some un-binding in my terminal editor as well:
+(Mind you, this does need some un-binding in my terminal emulator as well:
 
 ```bash
 # ghostty config
