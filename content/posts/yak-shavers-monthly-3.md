@@ -4,7 +4,7 @@ date = "2025-03-28T14:17:41+01:00"
 draft = false
 author = "Erwin de Keijzer"
 tags = ["yakshaving", "tooling", "helix", "yazi", "zellij", "shortcuts"]
-description = ""
+description = "Using user-defined shortcuts for fun and profit in the terminal"
 showFullContent = false
 readingTime = false
 hideComments = true
@@ -14,8 +14,7 @@ hideComments = true
 
 Use Super key shortcuts in your terminal for quick access to frequently used features and applications.
 
-
-# zellij
+## zellij
 
 Within zellij it is possible to configure shortcuts with the super key, this allows you to access commonly used features with ergonomic shortcuts. Especially if you don't use any of your terminal emulators' native features (like tabs or splits) this can be very useful.
 For example, I've set up zellij to switch to specific tabs with the following config:

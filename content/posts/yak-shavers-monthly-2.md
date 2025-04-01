@@ -4,7 +4,7 @@ date = "2025-03-01T18:02:12+01:00"
 draft = false
 author = "Erwin de Keijzer"
 tags = ["yakshaving", "tooling", "ai", "llm"]
-description = "Welcome to the second iteration of Yak Shavers monthly"
+description = "Adding LLMs to the terminal"
 showFullContent = false
 hideComments = true
 +++
