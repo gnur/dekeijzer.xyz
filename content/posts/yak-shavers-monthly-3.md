@@ -28,6 +28,21 @@ For example, I've set up zellij to switch to specific tabs with the following co
 
 This makes zellij feel like a native macos app and allows me to quickly switch tabs.
 
+
+(Mind you, this does need some un-binding in my terminal editor as well:
+
+```bash
+# ghostty config
+keybind = super+t=unbind
+keybind = super+d=unbind
+keybind = super+n=unbind
+keybind = super+shift+d=unbind
+
+
+keybind = super+physical:one=unbind
+keybind = super+physical:two=unbind
+```
+
 I've used Warp for a while but recently switched to ghostty, one of the native features in warp is splitting panes with `cmd-d` and `cmd-D`. To emulate this I added this to my `config.kdl` in zellij:
 
 ```kdl
