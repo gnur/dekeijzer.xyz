@@ -6,7 +6,7 @@ draft: false
 
 # about Erwin de Keijzer
 
-Erwin is a DevOps Engineer at TrueFullstaq. He loves educating people what it means to build cloud native applications (and it's not just using the "cloud"). Using the Cloud Native landscape to make application delivery and lifecycle simple and reliable. At home he is always looking for sidequests; monitoring his power usage to send notifications when his washing machine is done, connecting the garage door to the internet (securely) and adding music to his elevator are just a few examples. His experience makes him a very practical engineer, finding the simple solution is more important than having a modern, shiny solution.
+Erwin is a Principal Consultant at TrueFullstaq. He loves educating people what it means to build cloud native applications (and it's not just using the "cloud"). Using the Cloud Native landscape to make application delivery and lifecycle simple and reliable. At home he is always looking for sidequests; monitoring his power usage to send notifications when his washing machine is done, connecting the garage door to the internet (securely) and adding music to his (in house) elevator are just a few examples. His experience makes him a very practical engineer, finding the simple solution is more important than having a modern, shiny solution.
 
 [dekeijzer.xyz](https://dekeijzer.xyz) is a gathering of ideas, sidequests and a basic approximation of a portfolio / resume.
 
@@ -16,6 +16,18 @@ To contact me: public (at) dekeijzer (dot) xyz
 
 ---
 # public speaking
+
+## EdgeCase 2025 - My Beefs
+A group therapy session about stuff that should we just not be doing anymore in 2025.
+
+## Dutch Cloud Native Day 2025 - Using k9s for maximum efficiency
+k9s is a great tool for gaining insights in your kubernetes cluster. But k9s can do so much more than you might expect.
+
+## DevOpsDays 2025 - Talos hands-on Workshop
+A hands on workshop on working with Talos. Quickly explaining what talos is and how to use it for maximum efficiency.
+
+## Dutch Cloud Native Day 2024 - The Hybrid Kubernetes Cluster
+Lightning talk about what kinds of clusters you can create when you don't have to worry about connectivity anymore. Multi-cloud, cloud and on prem and even multi region is all possible with modern tooling and carefull planning.
 
 ## EdgeCase 2024 - Cowboy stories from the Cloud Native world
 We told some stories about the cloud native world and how you can cowboy your way around certain restrictions.
@@ -36,7 +48,7 @@ I talked about how the CLI has changed in 2023 and how you can use these tools t
 In September I presented a slightly revised talk about the my home elevator music project.
 
 ## Using CNCF Projects for Adding Music and Announcements to My Home Elevator (Kubecon Amsterdam 2023)
-In April 2023 I present about how transformed a dull elevator ride into a musical experience using cloud native tools.
+In April 2023 I presented about how transformed a dull elevator ride into a musical experience using cloud native tools.
 
 
 ## using prometheus for monitoring your power usage at home
